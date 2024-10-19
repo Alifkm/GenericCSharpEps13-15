@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GenericCSharp(Action)Eps13/1.0.0": {
+        "runtime": {
+          "GenericCSharp(Action)Eps13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericCSharp(Action)Eps13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
